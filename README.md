@@ -1,6 +1,6 @@
 # 머신러닝 기법으로 Fashion-MNIST 분류
 
-
+(img/fashion_MNIST_sample.png)
 
 
 
