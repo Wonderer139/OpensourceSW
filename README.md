@@ -12,16 +12,23 @@
 
 ## 2. 프로젝트 개요
 
-### [**표준화**](#표준화)
+### 모든 코드는 Google Colaboratory를 통해 작성되었습니다.
+### keras.datasets에서 제공하는 10000개 테스트셋을 반으로 나눠 테스트, 학습셋으로 사용했습니다.
 
-### **앙상블**
+### 사용 모델
+- Logistic Regression
+- Support Vector Machine
+- K-Nearest Neighbor
+- XGBoost
+- Ensemble
 
-### **멀티 스테이지 분류**
 
-### **Data Argument**
-
-### **최적 파라미터 탐색**
-
+### 사용 기법
+- 표준화
+- 앙상블
+- 멀티 스테이지 분류
+- Data Argument
+- 최적 파라미터 탐색
 
 
 ## 3. 프로젝트 내용
@@ -58,11 +65,11 @@
 - GridSearchCV를 사용해서 가장 우수한 성능을 보이는 하이퍼 파라미터를 찾음
 
 
+## 4. 최종 그래프
 
+![](img/최종 그래프.png)
 
-
-
-
+분류 정확도 : 
 
 
 ## License
