@@ -69,7 +69,7 @@
 
 ![](img/final_graph.png)
 
-분류 정확도 : 
+분류 정확도 : 92.08%
 
 
 ## License
